@@ -1,6 +1,6 @@
 
 #include "WiFly.h"
-#include "Client.h"
+#include "WiFlyClient.h"
 
 Client::Client(uint8_t *ip, uint16_t port) :
   _WiFly (WiFly),

@@ -5,8 +5,8 @@
 
 #include "WiFlyDevice.h"
 
-#include "Client.h"
-#include "Server.h"
+#include "WiFlyClient.h"
+#include "WiFlyServer.h"
 
 
 // TODO: Don't make this extern
